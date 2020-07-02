@@ -1,8 +1,6 @@
 ## code your solution here. 
 class Cat 
  attr_writer:name  
- attr_reader:name
-# def initialize
-# end 
+ attr_reader:name, :meow
  
 end 
