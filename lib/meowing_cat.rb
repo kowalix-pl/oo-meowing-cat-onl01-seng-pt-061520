@@ -2,7 +2,7 @@
 class Cat 
  attr_writer:name  
  attr_reader:name
- def initialize
- end 
+# def initialize
+# end 
  
 end 
